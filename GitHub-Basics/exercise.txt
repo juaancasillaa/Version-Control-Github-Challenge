@@ -1,0 +1,24 @@
+Explain what the terminal is in your own words:
+
+Is a window into which you can type commands 
+that are then executed by your computer's operating system. And also using git commands
+you can push proyects from vs code to your github profile.
+
+What is the major difference between Git and GitHub?:
+
+That GIT is instally located on your personal computer "located in the terminal 
+simply by trying to run git from the terminal the very first time.
+$ git --version
+If you don’t have it installed already, it will prompt you to install it.
+" and GITHUB is hosted in the cloud.
+
+What are the steps to fork a GitHub repository?:
+
+-Log in to your GitHub account.
+-Navigate to the repository you want to fork.
+-Click the "Fork" button in the top-right corner of the repository's page.
+-Select where you want to fork the repository (e.g., your own GitHub account or an 
+organization you belong to).
+-Wait for the forking process to complete.Once the forking process is done, you'll have your 
+own copy of the repository under your GitHub account.
+-You can now clone this forked repository to your local machine and start working on it.
